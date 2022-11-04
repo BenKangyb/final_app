@@ -2,10 +2,9 @@
 
 you can see data about CO2 emissions and fuel consumption by cars in this app
 
-### Repo link: 
-(https://github.com/BenKangyb/final_app)
-### streamlit link: 
-(https://benkangyb-final-app-final-kc6y1h.streamlit.app/)
+### [Repo link]https://github.com/BenKangyb/final_app
+### [streamlit link]https://benkangyb-final-app-final-kc6y1h.streamlit.app/
+
 
 ### Questions 
 - Does more cylinders mean more emissions and consumption?
